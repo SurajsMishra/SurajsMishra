@@ -1,11 +1,10 @@
-```md
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=⚡+SURAJ+MISHRA+⚡;AI+%26+ML+ENTHUSIAST;FULL+STACK+DEVELOPER;PYTHON+PROGRAMMER;BUILDING+COOL+THINGS+WITH+CODE+🚀" />
+# ⚡ SURAJ MISHRA ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020024,25:001F54,50:00BFFF,75:00E5FF,100:020024&text=SURAJ%20MISHRA&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=60"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Python+Programmer;Building+Cool+Projects;Always+Learning+New+Things" />
 
-### 💙 Code • Learn • Build • Repeat 💙
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000428,50:004e92,100:00d4ff&text=⚡%20SURAJ%20MISHRA%20⚡&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=40"/>
 
 </div>
 
@@ -21,44 +20,67 @@
 
 🐍 Python Developer
 
-🚀 Building Projects and Exploring Open Source
+🚀 Building innovative projects and solving real-world problems
 
-📚 Currently Learning:
-- Data Structures & Algorithms
-- Machine Learning
-- Full Stack Development
+📚 Currently learning Data Structures, AI, and Cloud Technologies
 
-📍 India 🇮🇳
+⚡ Always curious about how things work
+
+📍 India
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mishrasurajs123@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/SurajsMishra">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
 ---
 
 # ⚙️ Tech Stack
 
-<div align="center">
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,nodejs,mysql,mongodb,git,github,vscode,aws"/>
+<p align="center">
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
+
+</p>
+
+### Frameworks & Libraries
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,django,nodejs" />
+
+</p>
+
+### Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,postman" />
+
+</p>
 
 ---
 
@@ -66,9 +88,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SurajsMishra&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SurajsMishra&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajsMishra&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajsMishra&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -88,11 +110,11 @@
 
 | Project | Description |
 |----------|-------------|
-| 🧾 Bill Generator | Billing software for stores |
+| 🧾 Bill Generator | Billing software for small businesses |
 | 🔳 QR Generator | Generate QR codes instantly |
-| 📈 Car Sales Dashboard | Interactive analytics dashboard |
-| 🤖 ML Practice | Machine learning experiments |
-| 💡 DSA Solutions | Coding solutions in Java & Python |
+| 📈 Car Sales Dashboard | Interactive sales analytics dashboard |
+| 🤖 ML Practice | Machine Learning notebooks and experiments |
+| 💡 DSA Solutions | Java & Python coding solutions |
 
 ---
 
@@ -100,17 +122,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SurajsMishra&theme=algolia&no-frame=true&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajsMishra&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SurajsMishra&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -120,7 +132,27 @@
 
 <div align="center">
 
-<img src="https://github.com/SurajsMishra/SurajsMishra/blob/output/github-contribution-grid-snake-dark.svg"/>
+![Snake animation](https://github.com/SurajsMishra/SurajsMishra/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajsMishra&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -128,9 +160,8 @@
 
 <div align="center">
 
-## ⚡ KEEP LEARNING • KEEP BUILDING ⚡
+### ⚡ Code • Learn • Build • Repeat ⚡
 
-<img src="https://komarev.com/ghpvc/?username=SurajsMishra&label=Profile+Views&color=00E5FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SurajsMishra&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
-```
