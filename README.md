@@ -99,10 +99,9 @@ fun_fact: "⚡ Always curious about how things work"
 ## 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SurajsMishra/SurajsMishra/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/SurajsMishra/SurajsMishra/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-> ⚠️ **To activate the snake animation**, follow the setup steps below ⬇️
 
 ---
 
